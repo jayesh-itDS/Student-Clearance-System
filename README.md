@@ -45,7 +45,6 @@ Departments like **Library, Accounts, Hostel, Sports, and Student Affairs** can 
 - XAMPP / WAMP
 
 ---
-
 ## 📷 Screenshots
 
 ### Login Page
