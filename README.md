@@ -55,24 +55,23 @@ The system allows administrators to monitor student records and clearance approv
 
 ## 📷 Screenshots
 
-### 🔐 Login Page
+### Login Page
 ![Login Page](./screenshots/login.png)
 
-### 👨‍🎓 Student Dashboard
+### Student Dashboard
 ![Student Dashboard](./screenshots/student-dashboard.png)
 
-### 💳 Fee Payment
+### Fee Payment
 ![Fee Payment](./screenshots/fee-payment.png)
 
-### 🛠 Admin Dashboard
+### Admin Dashboard
 ![Admin Dashboard](./screenshots/admin-dashboard.png)
 
-### 📊 Student Accounts
+### Student Accounts
 ![Student Accounts](./screenshots/student-accounts.png)
 
-### 📋 Student Records
+### Student Records
 ![Student Records](./screenshots/student-records.png)
-
 ---
 
 ## ⚙️ How to Run the Project
